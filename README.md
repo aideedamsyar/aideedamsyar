@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 My name is Tengku Aideed Amsyar, born and raised in Malaysia 🇲🇾 currently am based in Seoul, South Korea 🇰🇷. 
+🔭 My name is Tengku Aideed Amsyar. I was born and raised in Malaysia 🇲🇾, currently based in Seoul, South Korea 🇰🇷. 
 
-🏛️ I am currently a Computer Science sophomore at Hanyang University, Seoul.
+🏛️ I am a Computer Science sophomore at Hanyang University, Seoul.
 
 ⚡ I find myself drawn to full-stack software engineering, particularly front-end development. I am also interested in product design and writing, and I enjoy learning about these fields whenever I can.
 
