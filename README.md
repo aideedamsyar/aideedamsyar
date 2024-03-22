@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 My name is Tengku Aideed Amsyar. I was born and raised in Malaysia 🇲🇾. I am currently based in Seoul, South Korea 🇰🇷. 
+🔭 My name is Tengku Aideed Amsyar. I was born and raised in Malaysia 🇲🇾 and currently living in Seoul, South Korea 🇰🇷. 
 
 🏛️ I am a Computer Science sophomore at Hanyang University, Seoul.
 
