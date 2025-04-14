@@ -2,9 +2,9 @@
 
 🔭 My name is Tengku Aideed Amsyar. I was born and raised in Malaysia 🇲🇾 and currently living in Seoul, South Korea 🇰🇷. 
 
-🏛️ I am a Computer Science junior at Hanyang University, Seoul.
+🏛️ Computer Science junior at Hanyang University, Seoul.
 
-⚡ I find myself drawn to full-stack software engineering and I am also interested in product design and writing, and I enjoy learning about these fields whenever I can.
+⚡ Actively exploring opportunities related to software engineering, AI, cloud solutions, startups, and impactful tech innovation. 
 
 💬 Feel free to contact at [hello@aideedamsyar.com](mailto:hello@aideedamsyar.com)!
 
