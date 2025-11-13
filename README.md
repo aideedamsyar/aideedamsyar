@@ -4,7 +4,7 @@
 
 🏛️ Computer Science junior at Hanyang University, Seoul.
 
-⚡ Founding Engineer & CTO at KOPLE, a travel-tech startup connecting global travelers through community and culture in Korea. 
+⚡ Founding Engineer & CTO at KOPLE, a travel-tech startup connecting global travelers through community and culture in Korea. [Work](https://work.aideedamsyar.com)
 
 💬 Feel free to contact at [hello@aideedamsyar.com](mailto:hello@aideedamsyar.com)!
 
