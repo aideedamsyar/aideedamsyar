@@ -8,6 +8,14 @@
 
 💬 Feel free to contact at [hello@aideedamsyar.com](mailto:hello@aideedamsyar.com)!
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=aideedamsyar&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/aideedamsyar"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **aideedamsyar/aideedamsyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
