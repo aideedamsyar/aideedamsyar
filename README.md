@@ -2,7 +2,7 @@
 
 🔭 My name is Tengku Aideed Amsyar. I was born and raised in Malaysia 🇲🇾 and currently living in Seoul, South Korea 🇰🇷. 
 
-🏛️ Computer Science junior at Hanyang University, Seoul.
+🏛️ Computer Science senior at Hanyang University, Seoul.
 
 ⚡ Founding Engineer & CTO at KOPLE, a travel-tech startup connecting global travelers through community and culture in Korea. [Work](https://work.aideedamsyar.com)
 
